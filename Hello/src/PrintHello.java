@@ -6,8 +6,7 @@ public class PrintHello {
 		int _a$h = 9;
 		System.out.println(_a$h);
 		System.out.println("Hello World in main method");
-		System.out.println("Hello World");
-		System.out.println("Hello");
+
 	}
 
 }
